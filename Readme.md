@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MySplash.cs](./CS/CustomSplashForm.Win/MySplash.cs) (VB: [MySplash.vb](./VB/CustomSplashForm.Win/MySplash.vb))**
+* [Program.cs](./CS/CustomSplashForm.Win/Program.cs) (VB: [Program.vb](./VB/CustomSplashForm.Win/Program.vb))
+* [SplashScreenForm.cs](./CS/CustomSplashForm.Win/SplashScreenForm.cs) (VB: [SplashScreenForm.vb](./VB/CustomSplashForm.Win/SplashScreenForm.vb))
+<!-- default file list end -->
 # How to: Use a Custom Form as a Splash Screen
 
 
